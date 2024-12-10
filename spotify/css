@@ -1,3 +1,7 @@
 this is the new branch features
+<<<<<<< HEAD
 this branch are very important and secure
 this branch are very important and fail
+=======
+this feature is in main branch
+>>>>>>> main
